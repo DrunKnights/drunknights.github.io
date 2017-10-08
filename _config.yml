@@ -1,5 +1,5 @@
 title: DrunKnights
 description: DrunKnights is an easy-to use mobile app that helps you drink safely
-show_downloads: flase
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
