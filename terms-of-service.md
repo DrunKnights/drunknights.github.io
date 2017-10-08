@@ -2,10 +2,10 @@
 layout: default
 ---
 
-## Terms of Service
+# Terms of Service
 
-```
-Legal Notices
+
+## Legal Notices
 
 We, DrunKnights of DrunKnights, provide it as a public service to our users.
 
@@ -15,7 +15,7 @@ DrunKnights reserve the right to update or modify these Terms and Conditions at 
 
 These Terms and Conditions of Use apply to the use of DrunKnights and do not extend to any linked third party sites. These Terms and Conditions and our Privacy Policy, which are hereby incorporated by reference, contain the entire agreement (the “Agreement”) between you and DrunKnights with respect to DrunKnights. Any rights not expressly granted herein are reserved.
 
-Permitted and Prohibited Uses
+## Permitted and Prohibited Uses
 
 You may use the DrunKnights for the sole purpose of personal use. You may not use the DrunKnights to violate any applicable local, state, national, or international law, including without limitation any applicable laws relating to antitrust or other illegal trade or business practices, federal and state securities laws, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, and any U.S. laws, rules, and regulations governing the export and re-export of commodities or technical data.
 
@@ -31,7 +31,7 @@ You also are expressly prohibited from distributing Users' personal information 
 
 DrunKnights note that unauthorized use of Users' personal information in connection with unsolicited marketing correspondence also may constitute violations of various state and federal anti-spam statutes. DrunKnights reserve the right to report the abuse of Users' personal information to the appropriate law enforcement and government authorities, and DrunKnights will fully cooperate with any authorities investigating violations of these laws.
 
-User Submissions
+## User Submissions
 
 DrunKnights do not want to receive confidential or proprietary information from you through DrunKnights. Any material, information, or other communication you transmit or post ("Contributions") to DrunKnights will be considered non-confidential.
 
@@ -39,11 +39,11 @@ All contributions to this site are licensed by you under the MIT License to anyo
 
 If you work for a company or at a University, it's likely that you're not the copyright holder of anything you make, even in your free time. Before making contributions to this site, get written permission from your employer.
 
-User Discussion Lists and Forums
+## User Discussion Lists and Forums
 
 DrunKnights may, but are not obligated to, monitor or review any areas on DrunKnights where users transmit or post communications or communicate solely with each other, including but not limited to user forums and email lists, and the content of any such communications. DrunKnights, however, will have no liability related to the content of any such communications, whether or not arising under the laws of copyright, libel, privacy, obscenity, or otherwise. DrunKnights may edit or remove content on the DrunKnights at their discretion at any time.
 
-Use of Personally Identifiable Information
+## Use of Personally Identifiable Information
 
 Information submitted to DrunKnights is governed according to DrunKnights’s current Privacy Policy and the stated license of DrunKnights. Please refer to the DrunKnights privacy policy for more information.
 
@@ -51,15 +51,15 @@ You agree to provide true, accurate, current, and complete information when regi
 
 Although sections of DrunKnights may be viewed simply by visiting DrunKnights, in order to access some Content and/or additional features offered at DrunKnights, you may need to sign on as a guest or register as a member. If you create an account on DrunKnights, you may be asked to supply your name, address, a User ID and password. You are responsible for maintaining the confidentiality of the password and account and are fully responsible for all activities that occur in connection with your password or account. You agree to immediately notify us of any unauthorized use of either your password or account or any other breach of security. You further agree that you will not permit others, including those whose accounts have been terminated, to access DrunKnights using your account or User ID. You grant DrunKnights and all other persons or entities involved in the operation of DrunKnights the right to transmit, monitor, retrieve, store, and use your information in connection with the operation of DrunKnights and in the provision of services to you. DrunKnights cannot and do not assume any responsibility or liability for any information you submit, or your or third parties’ use or misuse of information transmitted or received using website. To learn more about how we protect the privacy of the personal information in your account, please visit our Privacy Policy.
 
-Indemnification
+## Indemnification
 
 You agree to defend, indemnify and hold harmless DrunKnights, agents, vendors or suppliers from and against any and all claims, damages, costs and expenses, including reasonable attorneys' fees, arising from or related to your use or misuse of DrunKnights, including, without limitation, your violation of these Terms and Conditions, the infringement by you, or any other subscriber or user of your account, of any intellectual property right or other right of any person or entity.
 
-Termination
+## Termination
 
 These Terms and Conditions of Use are effective until terminated by either party. If you no longer agree to be bound by these Terms and Conditions, you must cease use of DrunKnights. If you are dissatisfied with DrunKnights, their content, or any of these terms, conditions, and policies, your sole legal remedy is to discontinue using DrunKnights. DrunKnights reserve the right to terminate or suspend your access to and use of DrunKnights, or parts of DrunKnights, without notice, if we believe, in our sole discretion, that such use (i) is in violation of any applicable law; (ii) is harmful to our interests or the interests, including intellectual property or other rights, of another person or entity; or (iii) where DrunKnights have reason to believe that you are in violation of these Terms and Conditions of Use.
 
-WARRANTY DISCLAIMER
+## WARRANTY DISCLAIMER
 
 DrunKnights AND ASSOCIATED MATERIALS ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, DrunKnights DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENTOF INTELLECTUAL PROPERTY. DrunKnights MAKE NO REPRESENTATIONS OR WARRANTY THAT DrunKnights WILL MEET YOUR REQUIREMENTS, OR THAT YOUR USE OF DrunKnights WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR FREE; NOR DO DrunKnights MAKE ANY REPRESENTATION OR WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF DrunKnights. DrunKnights MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF DrunKnights OR THE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS INCLUDED ON DrunKnights.
 
@@ -71,15 +71,14 @@ LIABILITY LIMITATION. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL OR EQUITABLE THE
 
 DrunKnights'S TOTAL CUMULATIVE LIABILITY FOR ANY AND ALL CLAIMS IN CONNECTION WITH DrunKnights WILL NOT EXCEED FIVE U.S. DOLLARS ($5.00). USER AGREES AND ACKNOWLEDGES THAT THE FOREGOING LIMITATIONS ON LIABILITY ARE AN ESSENTIAL BASIS OF THE BARGAIN AND THAT DrunKnights WOULD NOT PROVIDE DrunKnights ABSENT SUCH LIMITATION.
 
-General
+## General
 
 DrunKnights is hosted in the United States. DrunKnights make no claims that the Content on DrunKnights is appropriate or may be downloaded outside of the United States. Access to the Content may not be legal by certain persons or in certain countries. If you access DrunKnights from outside the United States, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction. The provisions of the UN Convention on Contracts for the International Sale of Goods will not apply to these Terms. A party may give notice to the other party only in writing at that party's principal place of business, attention of that party's principal legal officer, or at such other address or by such other method as the party shall specify in writing. Notice shall be deemed given upon personal delivery or facsimile, or, if sent by certified mail with postage prepaid, 5 business days after the date of mailing, or, if sent by international overnight courier with postage prepaid, 7 business days after the date of mailing. If any provision herein is held to be unenforceable, the remaining provisions will continue in full force without being affected in any way. Further, the parties agree to replace such unenforceable provision with an enforceable provision that most closely approximates the intent and economic effect of the unenforceable provision. Section headings are for reference purposes only and do not define, limit, construe or describe the scope or extent of such section. The failure of DrunKnights to act with respect to a breach of this Agreement by you or others does not constitute a waiver and shall not limit DrunKnights' rights with respect to such breach or any subsequent breaches. Any action or proceeding arising out of or related to this Agreement or User's use of DrunKnights must be brought in the courts of Belgium, and you consent to the exclusive personal jurisdiction and venue of such courts. Any cause of action you may have with respect to your use of DrunKnights must be commenced within one (1) year after the claim or cause of action arises. These Terms set forth the entire understanding and agreement of the parties, and supersedes any and all oral or written agreements or understandings between the parties, as to their subject matter. The waiver of a breach of any provision of this Agreement shall not be construed as a waiver of any other or subsequent breach.
 
-Links to Other Materials
+## Links to Other Materials
 
 DrunKnights may contain links to sites owned or operated by independent third parties. These links are provided for your convenience and reference only. We do not control such sites and, therefore, we are not responsible for any content posted on these sites. The fact that DrunKnights offer such links should not be construed in any way as an endorsement, authorization, or sponsorship of that site, its content or the companies or products referenced therein, and DrunKnights reserve the right to note its lack of affiliation, sponsorship, or endorsement on DrunKnights. If you decide to access any of the third party sites linked to by DrunKnights, you do this entirely at your own risk. Because some sites employ automated search results or otherwise link you to sites containing information that may be deemed inappropriate or offensive, DrunKnights cannot be held responsible for the accuracy, copyright compliance, legality, or decency of material contained in third party sites, and you hereby irrevocably waive any claim against us with respect to such sites.
 
-Notification Of Possible Copyright Infringement
+## Notification Of Possible Copyright Infringement
 
 In the event you believe that material or content published on DrunKnights may infringe on your copyright or that of another, please contact us.
-```
